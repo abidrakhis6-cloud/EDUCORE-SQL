@@ -1,0 +1,1 @@
+SELECT * FROM v_popular_courses;

@@ -1,0 +1,4 @@
+START TRANSACTION;
+INSERT INTO payments (user_id, amount)
+VALUES (1, 99.99);
+COMMIT;
